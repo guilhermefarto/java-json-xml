@@ -1,0 +1,391 @@
+{
+	"resultado": {
+		"dataExecucao": "30/05/2017 09:25:27",
+		"registros": [{
+			"colunasVO": [{
+				"codigo": "CD_FORNEC",
+				"descricao": "Fornecedor",
+				"fgTipo": "C",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "E",
+				"valor": {
+					"fgTipo": "C",
+					"valor": "123 - GUILHERME FARTO"
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 0
+			},
+			{
+				"codigo": "CD_UPNIVEL1",
+				"descricao": "Fazenda",
+				"fgTipo": "C",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "E",
+				"valor": {
+					"fgTipo": "C",
+					"valor": "  1234 - GUILHERME FARTO E OUTROS"
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 140
+			},
+			{
+				"codigo": "DISTANCIA",
+				"descricao": "Distância",
+				"fgTipo": "N",
+				"mascara": "#,##0.0",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "D",
+				"valor": {
+					"fgTipo": "N",
+					"valor": 35.3
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 40
+			},
+			{
+				"codigo": "TC",
+				"descricao": "Ton",
+				"fgTipo": "N",
+				"mascara": "###,###,##0.000",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "D",
+				"valor": {
+					"fgTipo": "N",
+					"valor": 178265.22
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 0
+			},
+			{
+				"codigo": "PC_CANA",
+				"descricao": "% Cana",
+				"fgTipo": "N",
+				"mascara": "##0.00",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "D",
+				"valor": {
+					"fgTipo": "N",
+					"valor": 100
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 40
+			},
+			{
+				"codigo": "CARGA_ENT",
+				"descricao": "Cargas Ent",
+				"fgTipo": "N",
+				"mascara": "#,###,##0",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "D",
+				"valor": {
+					"fgTipo": "N",
+					"valor": 8918
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 0
+			},
+			{
+				"codigo": "CARGA_ANL",
+				"descricao": "Cargas Anl",
+				"fgTipo": "N",
+				"mascara": "#,###,##0",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "D",
+				"valor": {
+					"fgTipo": "N",
+					"valor": 8527
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 0
+			},
+			{
+				"codigo": "PERC_CANA_ANL",
+				"descricao": "% Anl",
+				"fgTipo": "N",
+				"mascara": "##0.0",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "D",
+				"valor": {
+					"fgTipo": "N",
+					"valor": 95.1
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 40
+			},
+			{
+				"codigo": "DENS_CARGA",
+				"descricao": "Dens",
+				"fgTipo": "N",
+				"mascara": "#,###,##0.000",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "D",
+				"valor": {
+					"fgTipo": "N",
+					"valor": 19.989
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 40
+			},
+			{
+				"codigo": "BRIX",
+				"descricao": "Brix",
+				"fgTipo": "N",
+				"mascara": "#,###.00",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "D",
+				"valor": {
+					"fgTipo": "N",
+					"valor": 19.09
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 40
+			},
+			{
+				"codigo": "POL",
+				"descricao": "Pol",
+				"fgTipo": "N",
+				"mascara": "#,##0.00",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "D",
+				"valor": {
+					"fgTipo": "N",
+					"valor": 16.59
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 40
+			},
+			{
+				"codigo": "PUREZA",
+				"descricao": "Pza",
+				"fgTipo": "N",
+				"mascara": "#,###.00",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "D",
+				"valor": {
+					"fgTipo": "N",
+					"valor": 86.9
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 40
+			},
+			{
+				"codigo": "AR",
+				"descricao": "Ar",
+				"fgTipo": "N",
+				"mascara": "#,##0.00",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "D",
+				"valor": {
+					"fgTipo": "N",
+					"valor": 0.55
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 40
+			},
+			{
+				"codigo": "PC",
+				"descricao": "PC",
+				"fgTipo": "N",
+				"mascara": "#,##0.00",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "D",
+				"valor": {
+					"fgTipo": "N",
+					"valor": 13.77
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 40
+			},
+			{
+				"codigo": "FIBRA",
+				"descricao": "Fibra",
+				"fgTipo": "N",
+				"mascara": "#,##0.00",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "D",
+				"valor": {
+					"fgTipo": "N",
+					"valor": 13.15
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 40
+			},
+			{
+				"codigo": "AR_CALC",
+				"descricao": "AR Calc",
+				"fgTipo": "N",
+				"mascara": "#,##0.00",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "D",
+				"valor": {
+					"fgTipo": "N",
+					"valor": 0.55
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 40
+			},
+			{
+				"codigo": "ATR",
+				"descricao": "ATR",
+				"fgTipo": "N",
+				"mascara": "##0.00",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "D",
+				"valor": {
+					"fgTipo": "N",
+					"valor": 137.66
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 40
+			},
+			{
+				"codigo": "TMP",
+				"descricao": "TMP",
+				"fgTipo": "C",
+				"mascara": "#,##0.0",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "D",
+				"valor": {
+					"fgTipo": "C",
+					"valor": "20.7"
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 40
+			},
+			{
+				"codigo": "IMP",
+				"descricao": "Imp",
+				"fgTipo": "N",
+				"mascara": "#,##0.00",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "D",
+				"valor": {
+					"fgTipo": "N",
+					"valor": 1.31
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 40
+			},
+			{
+				"codigo": "PERC_BROCA",
+				"descricao": "% Broca",
+				"fgTipo": "N",
+				"mascara": "#,##0.00",
+				"corFonte": "000000",
+				"tamanhoFonte": 8,
+				"fgAlinhamento": "D",
+				"valor": {
+					"fgTipo": "N",
+					"valor": 0.14
+				},
+				"tamanhoColRelatorio": 50,
+				"fgNegrito": false,
+				"fgItalico": false,
+				"fgSublinhado": false,
+				"fgTachado": false,
+				"tamanhoCampo": 40
+			}],
+			"id": "6a38958b5397da99b51003cb775338ec"
+		}]
+	},
+	"isTotalizador": false,
+	"isTotalizadorGeral": false,
+	"restIntegration": false,
+	"isGerarPdf": false,
+	"id": "2549bac0b192715d9cf887bb4f47dd09"
+}
